@@ -5,7 +5,7 @@ This repository has been created to provide access to the **LEAP Ireland 2050** 
 
 **Authors:** Tomás Mac Uidhir, Fionn Rogan and Brian Ó Gallachóir
 
-## Installing LEAP program
+## Installing LEAP
 
 A valid licenced copy of the Low Emissions Analysis Platform (LEAP) is required to install/ operate the LEAP model developed here. To download LEAP, navigate to the Stocholm Environment Institute (SEI) - LEAP [website](https://leap.sei.org/default.asp?action=home).
 
