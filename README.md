@@ -1,5 +1,7 @@
 # LEAP Ireland 2050 model
 
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
 ## Background
 This repository has been created to provide access to the **MaREI LEAP Ireland 2050 model**, which was generated as part of EPA research project **2016-CCRP-MS.34: Develop a LEAP GHG Ireland Analytical Tool for 2050**.  The project report (EPA Research Project 349) is available [here](http://www.epa.ie/researchandeducation/research/researchpublications/researchreports/research349.html).
 
